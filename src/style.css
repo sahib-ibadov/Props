@@ -1,0 +1,20 @@
+button{
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    justify-content: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  table{
+    width: 80%;
+  }
+  th{
+    width: 200px;
+  }
+  .sahib{
+    margin-left: 30px;
+  }
